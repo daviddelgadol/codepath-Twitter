@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import RSKPlaceholderTextView
+
 
 class LoginViewController: UIViewController {
 

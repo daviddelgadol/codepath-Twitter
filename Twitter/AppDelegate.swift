@@ -8,6 +8,8 @@
 
 import UIKit
 import BDBOAuth1Manager
+import RSKPlaceholderTextView
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
