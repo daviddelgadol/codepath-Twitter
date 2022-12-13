@@ -1,6 +1,12 @@
 # Pajarito (Twitter Mockup)
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets. It is possible by using Twitter's api which allowed me to retrieve real tweets from twitter.
+Using Twitter's open API created a basic Twitter app to view, compose, favorite,
+and retweet tweets. (Users were able to log in to their actual Twitter accounts
+and perform these actions). 
+
+In order for me to use Twitter's API, I needed to create a Twitter developer account here: https://developer.twitter.com/en/apply-for-access. Then, I had to ask for permission to retrieve tweets from their database for educational purposes and in the meantime, grant Twitter all the copyrights to my application and full access to my code, which was not a problem for me.
+
+I'm glad I was able to make this project possible before Elon Musk's acquisition of Twitter. Rumors say he would be exploring the idea of removing free developer access to this awesome API.
 
 
 ## User Stories
