@@ -1,29 +1,13 @@
-# Twitter - Part II
+# Pajarito (Twitter Mockup)
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+Using Twitter's open API created a basic Twitter app to view, compose, favorite,
+and retweet tweets. (Users were able to log in to their actual Twitter accounts
+and perform these actions). 
 
-Time spent: **X** hours spent in total
+In order for me to use Twitter's API, I needed to create a Twitter developer account here: https://developer.twitter.com/en/apply-for-access. Then, I had to ask for permission to retrieve tweets from their database for educational purposes and in the meantime, grant Twitter all the copyrights to my application and full access to my code, which was not a problem for me.
 
-## User Stories
+I'm glad I was able to make this project possible before Elon Musk's acquisition of Twitter. Rumors say he would be exploring the idea of removing free developer access to this awesome API.
 
-The following **required** functionality is completed:
-
-- [x] User can compose a tweet. (4pts)
-- [x] User can favorite a tweet. (4pts)
-- [x] User can retweet a tweet. (2pts)
-
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/7hbSkTs.gif)
-
-# Twitter - Part I
-
-This is a basic twitter app to read your tweets.
-
-Time spent: 10 hours spent in total
 
 ## User Stories
 
@@ -34,6 +18,9 @@ The following **required** functionality is completed:
 - [x] User can log out. (1pt)
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -45,5 +32,11 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/TKd6ocr.gif)
+
+
+![](https://i.imgur.com/7hbSkTs.gif)
+
+
+
 
 
